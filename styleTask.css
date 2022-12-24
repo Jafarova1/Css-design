@@ -1,0 +1,43 @@
+h5{
+    color: dodgerblue;
+}
+
+h6{
+    color: darkgray;
+  
+}
+
+
+
+.location{
+    color: black;
+   
+}
+
+.Education{
+    margin-top: 40px;
+}
+.Projects{
+    margin-top: 40px;
+
+}
+.Skills{
+    margin-top: 40px;
+}
+.Awards{
+    margin-top: 40px;
+}
+.Right{
+   
+ 
+  display: inline-table;
+  
+    
+}
+.Left{
+  
+ 
+    display: inline-table 
+    
+
+}
